@@ -97,7 +97,7 @@
                     <div class="col-lg-3 col-md-12 card">
                         <div class="icon-container">
                             <span class="d-flex align-items-center justify-content-center">
-                                <img src="/images/csharp.png" alt="C#" width="60">
+                                <img src="images/csharp.png" alt="C#" width="60">
                             </span>
                         </div>
         
@@ -125,7 +125,7 @@
                     <div class="col-lg-3 col-md-12 card">
                         <div class="icon-container">
                             <span class="d-flex align-items-center justify-content-center">
-                                <img src="/images/android_studio.png" alt="php" width="60">
+                                <img src="images/android_studio.png" alt="php" width="60">
                             </span>
                         </div>
         

@@ -281,7 +281,8 @@
 
         <section class="container-fluid proverbs" id="proverbs">
             <div class="container h-100 d-flex justify-content-center align-items-center text-center">
-                <p class="proverb-text">"Coding is like life. It's difficult... so reach through my contacts so we can settle right away." <span class="author">- &lt;/Wendel&gt;</span></p>
+                <p class="proverb-text">"Code is like humor. When you have to explain it, it’s bad."  
+                    <span class="author">- &lt;/McGil&gt;</span></p>
             </div>
         </section> 
 
